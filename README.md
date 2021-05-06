@@ -10,4 +10,4 @@ This is how can you take part...
 - PPTT Slides
 - Manifesto
 - DAO desplegada
-
+- Video
