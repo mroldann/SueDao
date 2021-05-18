@@ -108,6 +108,7 @@ Con los fondos provenientes de los damnificados e inversores que compraron sus L
 En la versión MVP, la gobernanza será realizada por los damnificados con un voto por persona (App de ``Voting``) previa discusión en el Discord oficial.
 
 ## Links - Información adicional
+- [Manifesto](https://drive.google.com/file/d/1S-82zWKdz5a8I387Xh6PFRQdKGf3CpJt/view?usp=sharing)
 - [Slides](https://app.pitch.com/app/presentation/169a27e5-a48f-431f-8464-abf3b29108fd/102856cc-2879-4792-80fb-3952c13e646f)
 - [SueDAO (Aragon xDai)](https://aragon.1hive.org/#/collectivesue2/) 
 - Video
